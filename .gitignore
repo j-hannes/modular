@@ -1,0 +1,8 @@
+node_modules
+app/components
+*.swp
+.DS_Store
+
+# compiled files
+app/assets/css/application.css
+app/assets/js/application.js
